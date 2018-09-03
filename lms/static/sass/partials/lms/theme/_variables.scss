@@ -1,0 +1,7 @@
+// Default bootstrap theming
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+$serif: 'Montserrat', sans-serif;
+$font-family-sans-serif: 'Montserrat', sans-serif;
+
+
+@import 'edx-bootstrap/sass/open-edx/theme';
